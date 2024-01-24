@@ -22,6 +22,7 @@ export const MovieDetail = () => {
   // useEffect(() => {
   //   document.title = `${movie.title} / Cinemate`
   // });
+  //eslint-disable-next-line
   const pageTitle = useTitle(`${movie.title}`);
 
   return (
