@@ -9,7 +9,7 @@ export const MovieList = ({apiPath, title}) => {
   // useEffect(() => {
   //   document.title = `${title} / Cinemate`
   // });
-  const pageTitle = useTitle(`${title}`);
+  useTitle(`${title}`);
 
   return (
    <main>
