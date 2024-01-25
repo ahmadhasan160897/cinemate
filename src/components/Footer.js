@@ -8,16 +8,16 @@ export const Footer = () => {
     </span>
     <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
-            <NavLink to="/" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">Instagram</NavLink>
+            <NavLink to="https://www.instagram.com/ahmadhasan428?igsh=MTdxczlqemxhcHAzdA%3D%3D&utm_source=qr" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">Instagram</NavLink>
         </li>
         <li>
-            <NavLink to="/" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">LinkedIn</NavLink>
+            <NavLink to="https://www.linkedin.com/in/ahmad-hasan-178519186" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">LinkedIn</NavLink>
         </li>
         <li>
-            <NavLink to="/" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">YouTube</NavLink>
+            <NavLink to="https://www.youtube.com/" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">YouTube</NavLink>
         </li>
         <li>
-            <NavLink to="/" target="_blank" rel="noreferrer" className="hover:underline">GitHub</NavLink>
+            <NavLink to="https://github.com/ahmadhasan160897" target="_blank" rel="noreferrer" className="hover:underline">GitHub</NavLink>
         </li>
     </ul>
     </div>
